@@ -1,0 +1,14 @@
+{
+  "token": "",
+  "prefix": "-",
+  "color": "#0000FF",
+  "max_tickets": 1,
+
+  
+  "ticket_log": "ticket-log",
+  "transcript_log": "ticket-transcripts",
+  "ticket_category": "Tickets",
+  "support_team_role": "Support Team",
+  "support_manager_role": "Support Manager",
+  "move_tickets_category": "Proceed Tickets"
+}
